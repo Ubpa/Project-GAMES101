@@ -26,6 +26,8 @@
 
 ![image-20210609142621449](assets/image-20210609142621449.png)
 
+> 详细内容可查阅[补充材料](https://sites.cs.ucsb.edu/~lingqi/teaching/resources/GAMES101_Lecture_04_supp.pdf)。
+
 ## 相机变换
 
 将世界空间坐标转换到相机空间坐标
