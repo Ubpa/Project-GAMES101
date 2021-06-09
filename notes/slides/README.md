@@ -5,4 +5,5 @@
 - [03. 变换（二维与三维）](03_transformation.md)
 - [04. 变换（模型、视图、投影）](04_transformation_cont.md)
 - [05. 光栅化（三角形的离散化）](05_rasterization_1_triangle.md)
+- [06. 光栅化（深度测试与抗锯齿）](06_rasterization_2_antialiasing_and_z_buffering.md)
 
