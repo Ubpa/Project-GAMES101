@@ -1,4 +1,4 @@
-# 04. 变换（继续）
+# 04. 变换（模型、视图、投影）
 
 > 课件：[GAMES101_Lecture_04.pdf](https://sites.cs.ucsb.edu/~lingqi/teaching/resources/GAMES101_Lecture_04.pdf)
 >
@@ -28,7 +28,7 @@
 
 > 详细内容可查阅[补充材料](https://sites.cs.ucsb.edu/~lingqi/teaching/resources/GAMES101_Lecture_04_supp.pdf)。
 
-## 相机变换
+## 视图变换
 
 将世界空间坐标转换到相机空间坐标
 
