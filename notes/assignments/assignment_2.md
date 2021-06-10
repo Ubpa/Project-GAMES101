@@ -14,3 +14,4 @@
 超采样
 
 只需将 rasterizer 的 size 翻倍，然后显示的时候用 box filter。
+
