@@ -28,9 +28,9 @@ during rasterization
 
 ![image-20210610112115557](assets/image-20210610112115557.png)
 
-## 着色
+## Blinn-Phong 反射模型
 
-### Blinn-Phong 反射模型
+### diffuse 项
 
 **输入**
 
