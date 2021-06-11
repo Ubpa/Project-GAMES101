@@ -1,5 +1,12 @@
 # 课件笔记
 
+## 资源
+
+- [课程主页](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+- [B 站视频](https://www.bilibili.com/video/av90798049)
+
+## 目录
+
 - [01. 计算机图形学概述](01_intro.md)
 - [02. 向量与线性代数](02_linear_algebra.md) 
 - [03. 变换（二维与三维）](03_transformation.md)
@@ -11,4 +18,6 @@
 - [09. 着色（插值、高级纹理映射）](09_shading_3_texture_mapping_cont.md)
 - [10. 几何（基本表示方法）](10_geometry_1_intro.md)
 - [11. 几何（曲线与曲面）](11_geometry_2_curves_and_surfaces.md)
+- [12. 几何（网格处理）](12_geometry_3.md)
+- [13. 光线追踪（基本原理）](13_ray_tracing_1.md)
 
