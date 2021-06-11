@@ -20,4 +20,6 @@
 - [11. 几何（曲线与曲面）](11_geometry_2_curves_and_surfaces.md)
 - [12. 几何（网格处理）](12_geometry_3.md)
 - [13. 光线追踪（基本原理）](13_ray_tracing_1.md)
+- [14. 光线追踪（加速结构）](14_ray_tracing_2.md)
+- [15. 光线追踪（辐射度量学、渲染方程与全局光照）](15_ray_tracing_3.md)
 

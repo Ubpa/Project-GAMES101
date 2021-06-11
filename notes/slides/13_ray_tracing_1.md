@@ -26,7 +26,7 @@
 
 ### 光-网格相交
 
-转换成光-三角形相交，最快的方法是 Moller Trumbore 算法
+转换成光-三角形相交，最快的方法是 Moller Trumbore 算法（详细[推导](https://blog.csdn.net/zhanxi1992/article/details/109903792)）
 
 ![image-20210610212257717](assets/image-20210610212257717.png)
 
