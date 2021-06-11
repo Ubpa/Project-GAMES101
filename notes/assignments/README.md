@@ -17,4 +17,6 @@
 - [作业 2：三角形和深度缓冲](assignment_2.md)
 - [作业 3：管线和着色](assignment_3.md)
 - [作业 4：Bezier 曲线](assignment_4.md)
+- [作业 5：光线与三角形相交](assignment_5.md)
+- [作业 6：加速结构](assignment_6.md)
 
