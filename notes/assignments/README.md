@@ -19,4 +19,5 @@
 - [作业 4：Bezier 曲线](assignment_4.md)
 - [作业 5：光线与三角形相交](assignment_5.md)
 - [作业 6：加速结构](assignment_6.md)
+- [作业 7：路径追踪](assignment_7.md)
 
