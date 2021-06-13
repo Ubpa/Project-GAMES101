@@ -21,11 +21,11 @@ artifacts 看起来很奇怪的现象
 
 将函数表示成关于 sine 和 cosine 的加权和
 
-![image-20210609231654666](assets/image-20210609231654666.png)
+![image-20210609231654666](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210609231654666.jpg)
 
 傅里叶变换
 
-![image-20210609231816572](assets/image-20210609231816572.png)
+![image-20210609231816572](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210609231816572.jpg)
 
 越高频的信号需要更快的采样，下采样会造成频率 aliases
 
@@ -33,7 +33,7 @@ artifacts 看起来很奇怪的现象
 
 ### 去除特定频率的内容
 
-![image-20210609232523584](assets/image-20210609232523584.png)
+![image-20210609232523584](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210609232523584.jpg)
 
 频谱图像的理解
 
@@ -42,9 +42,9 @@ artifacts 看起来很奇怪的现象
 
 高频边界，低频模糊
 
-![image-20210609233558395](assets/image-20210609233558395.png)
+![image-20210609233558395](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210609233558395.jpg)
 
-![image-20210609233605234](assets/image-20210609233605234.png)
+![image-20210609233605234](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210609233605234.jpg)
 
 ### 卷积 / 平均
 
@@ -52,19 +52,19 @@ artifacts 看起来很奇怪的现象
 
 > 时域乘积 = 频域卷积
 
-![image-20210609233955921](assets/image-20210609233955921.png)
+![image-20210609233955921](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210609233955921.jpg)
 
 ## 采样 = 重复频率内容
 
-![image-20210609234242644](assets/image-20210609234242644.png)
+![image-20210609234242644](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210609234242644.jpg)
 
 ## 反走样
 
-![image-20210609234626359](assets/image-20210609234626359.png)
+![image-20210609234626359](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210609234626359.jpg)
 
 先模糊（低通滤波）再采样
 
-![image-20210609234638485](assets/image-20210609234638485.png)
+![image-20210609234638485](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210609234638485.jpg)
 
 渲染的图形信号为 $f(x,y)$（连续的），先用 1x1 的盒子滤波（注意是滤波，而不是采样，相当于求 $f(x,y)$ 在 1x1 的像素的平均值），再进行采样
 

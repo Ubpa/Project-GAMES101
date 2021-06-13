@@ -10,11 +10,11 @@
 
 **2D**
 
-![image-20210610183318694](assets/image-20210610183318694.png)
+![image-20210610183318694](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610183318694.jpg)
 
 **3D**
 
-![image-20210610183343425](assets/image-20210610183343425.png)
+![image-20210610183343425](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610183343425.jpg)
 
 ## 几何表示
 

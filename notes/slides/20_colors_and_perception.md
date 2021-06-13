@@ -19,23 +19,23 @@ $$
 
 ## 光场
 
-![image-20210613141809448](assets/image-20210613141809448.png)
+![image-20210613141809448](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613141809448.jpg)
 
-![image-20210613141840677](assets/image-20210613141840677.png)
+![image-20210613141840677](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613141840677.jpg)
 
 ## 颜色的物理基础
 
 ### 可见光谱
 
-![image-20210613141935029](assets/image-20210613141935029.png)
+![image-20210613141935029](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613141935029.jpg)
 
 ### 谱功率密度 Spectral Power Distribution（SPD）
 
-![image-20210613142032530](assets/image-20210613142032530.png)
+![image-20210613142032530](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613142032530.jpg)
 
 SPD 具有线性性质
 
-![image-20210613142214132](assets/image-20210613142214132.png)
+![image-20210613142214132](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613142214132.jpg)
 
 ## 颜色
 
@@ -48,11 +48,11 @@ SPD 具有线性性质
 - 杆细胞 rods：感知灰度
 - 锥细胞 cones：有 3 种锥细胞，每种对光谱的感知不同；提供了颜色的感觉。
 
-![image-20210613142354032](assets/image-20210613142354032.png)
+![image-20210613142354032](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613142354032.jpg)
 
 人眼不能直接感知光谱，而是感知了 $(S,M,L)$ 这三个数
 
-![image-20210613142407263](assets/image-20210613142407263.png)
+![image-20210613142407263](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613142407263.jpg)
 
 ### 颜色生成
 
@@ -69,15 +69,15 @@ $$
 
 三个基光谱
 
-![image-20210613142803122](assets/image-20210613142803122.png)
+![image-20210613142803122](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613142803122.jpg)
 
 对于任意波长的光线，根据**人的感知**匹配，可以得到一个组合系数，称为 CIE RGB 颜色匹配函数 $\bar{r}(\lambda),\bar{g}(\lambda),\bar{b}(\lambda)$，绘制如下图
 
-![image-20210613143155886](assets/image-20210613143155886.png)
+![image-20210613143155886](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613143155886.jpg)
 
 因此，根据光谱的线性性，任意一个光谱 $s$，都可以计算 CIE RGB 基元，如下
 
-![image-20210613143607979](assets/image-20210613143607979.png)
+![image-20210613143607979](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613143607979.jpg)
 
 > 用这三个数去控制三个基光源，混出来的颜色与 $s$ 相同
 
@@ -89,7 +89,7 @@ sRGB
 
 ### 通用颜色空间 CIE XYZ
 
-![image-20210613144020017](assets/image-20210613144020017.png)
+![image-20210613144020017](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613144020017.jpg)
 
 这是人造的颜色响应函数，与之对应的基础颜色是不存在的
 
@@ -99,11 +99,11 @@ $Y$ 是亮度
 
 相对的 XYZ 就是色品
 
-![image-20210613151317064](assets/image-20210613151317064.png)
+![image-20210613151317064](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613151317064.jpg)
 
 固定 $Y$，并且将 $x,y$ 作为坐标可以得到色域图
 
-![image-20210613151403456](assets/image-20210613151403456.png)
+![image-20210613151403456](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613151403456.jpg)
 
 > 一个光谱，有一个感知的颜色，将光谱与匹配函数进行积分，得到 XYZ，然后算出 xyz，并根据 xy 找到位置，把颜色填上去
 >

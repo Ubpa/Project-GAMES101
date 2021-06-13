@@ -14,27 +14,27 @@ $$
 
 ## 理想反射与折射（BSDF）
 
-![image-20210613132447294](assets/image-20210613132447294.png)
+![image-20210613132447294](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613132447294.jpg)
 
-![image-20210613132459731](assets/image-20210613132459731.png)
+![image-20210613132459731](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613132459731.jpg)
 
-![image-20210613132519701](assets/image-20210613132519701.png)
+![image-20210613132519701](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613132519701.jpg)
 
-![image-20210613132529530](assets/image-20210613132529530.png)
+![image-20210613132529530](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613132529530.jpg)
 
 ## 菲涅尔反射
 
-![image-20210613132555195](assets/image-20210613132555195.png)
+![image-20210613132555195](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613132555195.jpg)
 
 ## 微表面模型
 
-![image-20210613132657870](assets/image-20210613132657870.png)
+![image-20210613132657870](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613132657870.jpg)
 
-![image-20210613132712332](assets/image-20210613132712332.png)
+![image-20210613132712332](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613132712332.jpg)
 
 ## 各向异性 BRDF
 
-![image-20210613132814713](assets/image-20210613132814713.png)
+![image-20210613132814713](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613132814713.jpg)
 
 ## BRDF 性质
 

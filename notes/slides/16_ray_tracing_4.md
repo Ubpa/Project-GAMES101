@@ -6,37 +6,37 @@
 
 ## 蒙特卡洛积分
 
-![image-20210611215453079](assets/image-20210611215453079.png)
+![image-20210611215453079](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611215453079.jpg)
 
 ## 路径追踪
 
 ### 计算方法
 
-![image-20210611223825188](assets/image-20210611223825188.png)
+![image-20210611223825188](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611223825188.jpg)
 
 ### 俄罗斯轮盘赌
 
-![image-20210611223910633](assets/image-20210611223910633.png)
+![image-20210611223910633](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611223910633.jpg)
 
 ### 采样光源
 
-![image-20210611223953149](assets/image-20210611223953149.png)
+![image-20210611223953149](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611223953149.jpg)
 
-![image-20210611224010243](assets/image-20210611224010243.png)
+![image-20210611224010243](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611224010243.jpg)
 
-![image-20210611224042267](assets/image-20210611224042267.png)
+![image-20210611224042267](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611224042267.jpg)
 
-![image-20210611224111914](assets/image-20210611224111914.png)
+![image-20210611224111914](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611224111914.jpg)
 
 ### 伪代码
 
-![image-20210611224143301](assets/image-20210611224143301.png)
+![image-20210611224143301](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611224143301.jpg)
 
 ### 其他
 
 - 路径追踪 100% 正确
 
-  ![image-20210611224416222](assets/image-20210611224416222.png)
+  ![image-20210611224416222](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611224416222.jpg)
 
   康奈尔盒子：http://www.graphics.cornell.edu/online/box/compare.html
 

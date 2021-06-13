@@ -16,15 +16,15 @@
 
 - 每个三角形一分为四
 
-  ![image-20210610201726940](assets/image-20210610201726940.png)
+  ![image-20210610201726940](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610201726940.jpg)
 
 - 对新的点，加权平均
 
-  ![image-20210610201750648](assets/image-20210610201750648.png)
+  ![image-20210610201750648](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610201750648.jpg)
 
 - 对旧的点，加权平均
 
-  ![image-20210610201820607](assets/image-20210610201820607.png)
+  ![image-20210610201820607](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610201820607.jpg)
 
 ### Catmull-Clark 细分
 
@@ -35,16 +35,16 @@
 - 连接新点
 - 修改旧点位置
 
-![image-20210610202315813](assets/image-20210610202315813.png)
+![image-20210610202315813](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610202315813.jpg)
 
 ## 网格简化
 
 塌缩边
 
-![image-20210610203413617](assets/image-20210610203413617.png)
+![image-20210610203413617](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610203413617.jpg)
 
 选二次误差最小的
 
 ## 阴影贴图
 
-![image-20210610204405793](assets/image-20210610204405793.png)
+![image-20210610204405793](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610204405793.jpg)

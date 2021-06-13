@@ -6,32 +6,32 @@
 
 ## 基础光追算法
 
-![image-20210610211736323](assets/image-20210610211736323.png)
+![image-20210610211736323](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610211736323.jpg)
 
 ## 光线曲面相交
 
 ### 光线方程
 
-![image-20210610212040273](assets/image-20210610212040273.png)
+![image-20210610212040273](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610212040273.jpg)
 
 ### 光-圆相交
 
-![image-20210610212104542](assets/image-20210610212104542.png)
+![image-20210610212104542](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610212104542.jpg)
 
-![image-20210610212123523](assets/image-20210610212123523.png)
+![image-20210610212123523](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610212123523.jpg)
 
 ### 光-面相交
 
-![image-20210611114025529](assets/image-20210611114025529.png)
+![image-20210611114025529](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611114025529.jpg)
 
 ### 光-网格相交
 
 转换成光-三角形相交，最快的方法是 Moller Trumbore 算法（详细[推导](https://blog.csdn.net/zhanxi1992/article/details/109903792)）
 
-![image-20210610212257717](assets/image-20210610212257717.png)
+![image-20210610212257717](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610212257717.jpg)
 
 ### 光-盒相交
 
-![image-20210610212542729](assets/image-20210610212542729.png)
+![image-20210610212542729](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610212542729.jpg)
 
-![image-20210610212615651](assets/image-20210610212615651.png)
+![image-20210610212615651](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610212615651.jpg)

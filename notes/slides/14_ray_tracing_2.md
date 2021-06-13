@@ -8,11 +8,11 @@
 
 ### 均匀空间划分
 
-![image-20210611135643094](assets/image-20210611135643094.png)
+![image-20210611135643094](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611135643094.jpg)
 
 ### 空间划分
 
-![image-20210611135705126](assets/image-20210611135705126.png)
+![image-20210611135705126](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611135705126.jpg)
 
 Oct-Tree 依赖于维度（3 维有 8 个结点）
 
@@ -25,7 +25,7 @@ BSP-Tree 依赖于维度
 
 ### 物体划分：BVH
 
-![image-20210611135951768](assets/image-20210611135951768.png)
+![image-20210611135951768](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611135951768.jpg)
 
 关键在于划分，思路有
 
@@ -53,20 +53,20 @@ $$
 
 radiant（luminous）intensity 是由点光源发出的单位立体角的功率
 
-![image-20210611142428003](assets/image-20210611142428003.png)
+![image-20210611142428003](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611142428003.jpg)
 $$
 I(\omega) = \frac{\mathrm{d}\Phi}{\mathrm{d}\omega}\left[\frac{W}{sr}=cd=\text{candela}\right]
 $$
 
 ## Solid Angle
 
-![image-20210611142946793](assets/image-20210611142946793.png)
+![image-20210611142946793](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611142946793.jpg)
 
 **立体角微元**
 
-![image-20210611143111138](assets/image-20210611143111138.png)
+![image-20210611143111138](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611143111138.jpg)
 
 各向同性点光源的 radiant intensity 与 radiant flux 的关系
 
-![image-20210611143544085](assets/image-20210611143544085.png)
+![image-20210611143544085](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611143544085.jpg)
 

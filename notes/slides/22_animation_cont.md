@@ -12,39 +12,39 @@ $$
 
 ## 欧拉方法
 
-![image-20210613232038547](assets/image-20210613232038547.png)
+![image-20210613232038547](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613232038547.jpg)
 
 ## 中点法
 
-![image-20210613232104335](assets/image-20210613232104335.png)
+![image-20210613232104335](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613232104335.jpg)
 
-![image-20210613232137753](assets/image-20210613232137753.png)
+![image-20210613232137753](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613232137753.jpg)
 
 ## 隐式欧拉法
 
-![image-20210613232202444](assets/image-20210613232202444.png)
+![image-20210613232202444](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613232202444.jpg)
 
 ## Runge-Kutta 法
 
 4 阶
 
-![image-20210613232227871](assets/image-20210613232227871.png)
+![image-20210613232227871](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613232227871.jpg)
 
 ## 刚体模拟
 
-![image-20210613232255418](assets/image-20210613232255418.png)
+![image-20210613232255418](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613232255418.jpg)
 
 ## 流体模拟
 
 ### Position-Based Method
 
-![image-20210613232339545](assets/image-20210613232339545.png)
+![image-20210613232339545](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613232339545.jpg)
 
 ### 欧拉 vs 拉格朗日
 
-![image-20210613232404122](assets/image-20210613232404122.png)
+![image-20210613232404122](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613232404122.jpg)
 
 ### Material Point Method (MPM)
 
-![image-20210613232440267](assets/image-20210613232440267.png)
+![image-20210613232440267](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613232440267.jpg)
 

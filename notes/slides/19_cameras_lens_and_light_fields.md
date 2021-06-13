@@ -10,42 +10,42 @@
 
 传感器记录的是 irradiance，如果没有透镜，会很糊
 
-![image-20210613134758219](assets/image-20210613134758219.png)
+![image-20210613134758219](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613134758219.jpg)
 
 
 
 ## 视域 FOV
 
-![image-20210613134843861](assets/image-20210613134843861.png)
+![image-20210613134843861](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613134843861.jpg)
 $$
 \text{FOV} = 2\arctan \left(\frac{h}{2f}\right)
 $$
 由于历史原因，一般以 35mm 格式胶片下的焦距（focal length）来确定 FOV
 
-![image-20210613135034069](assets/image-20210613135034069.png)
+![image-20210613135034069](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613135034069.jpg)
 
 ## 曝光 exposure
 
 曝光是时间乘 irradiance，即 $H = T \times E$，其中曝光时间 $T$ 由快门（shutter）控制，irradiance 由透镜光圈（lens aperture）和焦距（focal length）控制。
 
-![image-20210613135543052](assets/image-20210613135543052.png)
+![image-20210613135543052](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613135543052.jpg)
 
 ## 薄透镜近似
 
 ### 高斯薄透镜公式
 
-![image-20210613135716395](assets/image-20210613135716395.png)
+![image-20210613135716395](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613135716395.jpg)
 $$
 \frac{1}{f}=\frac{1}{z_i}+\frac{1}{z_o}
 $$
 
 ### 散焦模糊
 
-![image-20210613135836925](assets/image-20210613135836925.png)
+![image-20210613135836925](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613135836925.jpg)
 
 可用光追实现
 
-![image-20210613140033422](assets/image-20210613140033422.png)
+![image-20210613140033422](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613140033422.jpg)
 
 - 对于传感器上的像素 $x^\prime$
 - 在透镜上随机采样 $x^{\prime\prime}$
@@ -54,5 +54,5 @@ $$
 
 ### 景深
 
-![image-20210613140341381](assets/image-20210613140341381.png)
+![image-20210613140341381](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210613140341381.jpg)
 

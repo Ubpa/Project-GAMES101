@@ -8,11 +8,11 @@
 
 ### de Casteljau 算法
 
-![image-20210610195404870](assets/image-20210610195404870.png)
+![image-20210610195404870](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610195404870.jpg)
 
 ### 公式
 
-![image-20210610195646591](assets/image-20210610195646591.png)
+![image-20210610195646591](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610195646591.jpg)
 
 ## Bezier 曲面
 
@@ -20,9 +20,9 @@
 
 Bezier 曲线的曲线
 
-![image-20210610195947300](assets/image-20210610195947300.png)
+![image-20210610195947300](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610195947300.jpg)
 
 ### 分离的 1D de Casteljau 算法
 
-![image-20210610200023714](assets/image-20210610200023714.png)
+![image-20210610200023714](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610200023714.jpg)
 

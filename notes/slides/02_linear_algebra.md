@@ -10,11 +10,11 @@
 
 判断一个向量在另一个向量的左侧还是右侧（逆时针还是顺时针），只需看两向量的叉乘结果的 z 的正负，z 正则左侧（逆时针），z 负则右侧（顺时针）。
 
-![image-20210610115028538](assets/image-20210610115028538.png)
+![image-20210610115028538](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610115028538.jpg)
 
 判断一个点是否在三角形内部
 
-![image-20210610115327975](assets/image-20210610115327975.png)
+![image-20210610115327975](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610115327975.jpg)
 
 $\vec{AB}\times\vec{AP}$、$\vec{BC}\times \vec{BP}$、$\vec{CA}\times\vec{CP}$ 三者同向则说明 $P$ 在 $\triangle ABC$ 内
 

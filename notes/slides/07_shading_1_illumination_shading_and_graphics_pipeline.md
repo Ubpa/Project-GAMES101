@@ -10,7 +10,7 @@ depth buffer 存储各像素最小的 z 值
 
 假设 z 为正，近小远大
 
-![image-20210610111809179](assets/image-20210610111809179.png)
+![image-20210610111809179](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610111809179.jpg)
 
 z-buffer 算法
 
@@ -26,7 +26,7 @@ during rasterization
         ; // do nothing, this sample is occluded
 ```
 
-![image-20210610112115557](assets/image-20210610112115557.png)
+![image-20210610112115557](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610112115557.jpg)
 
 ## Blinn-Phong 反射模型
 
@@ -39,15 +39,15 @@ during rasterization
 - 光线方向 $l$
 - 表面参数（颜色，光滑度 shininess，...）
 
-![image-20210610112452677](assets/image-20210610112452677.png)
+![image-20210610112452677](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610112452677.jpg)
 
 漫反射
 
-![image-20210610112913479](assets/image-20210610112913479.png)
+![image-20210610112913479](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610112913479.jpg)
 
-![image-20210610112943407](assets/image-20210610112943407.png)
+![image-20210610112943407](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610112943407.jpg)
 
-![image-20210610112731147](assets/image-20210610112731147.png)
+![image-20210610112731147](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610112731147.jpg)
 
-![image-20210610112807735](assets/image-20210610112807735.png)
+![image-20210610112807735](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210610112807735.jpg)
 

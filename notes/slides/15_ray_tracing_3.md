@@ -22,7 +22,7 @@ $$
 
 radiance 是在单位投影面积单位立体角的功率
 
-![image-20210611155645685](assets/image-20210611155645685.png)
+![image-20210611155645685](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611155645685.jpg)
 $$
 L(x,\omega)=\frac{\mathrm{d}^2\Phi(x,\omega)}{\mathrm{d}\omega\mathrm{d}A\cos\theta}
 \left[\frac{W}{\text{sr}\ \text{m}^2}\right]
@@ -35,27 +35,27 @@ $$
 
 ##  BRDF
 
-![image-20210611162113341](assets/image-20210611162113341.png)
+![image-20210611162113341](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611162113341.jpg)
 
-![image-20210611162145801](assets/image-20210611162145801.png)
+![image-20210611162145801](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611162145801.jpg)
 
 ## 反射方程
 
-![image-20210611162154501](assets/image-20210611162154501.png)
+![image-20210611162154501](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611162154501.jpg)
 
 ## 渲染方程
 
-![image-20210611162616612](assets/image-20210611162616612.png)
+![image-20210611162616612](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611162616612.jpg)
 
 ## 理解渲染方程
 
-![image-20210611163651950](assets/image-20210611163651950.png)
+![image-20210611163651950](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611163651950.jpg)
 
-![image-20210611163700903](assets/image-20210611163700903.png)
+![image-20210611163700903](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611163700903.jpg)
 
-![image-20210611163711247](assets/image-20210611163711247.png)
+![image-20210611163711247](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611163711247.jpg)
 
-![image-20210611163719832](assets/image-20210611163719832.png)
+![image-20210611163719832](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611163719832.jpg)
 
-![image-20210611163736132](assets/image-20210611163736132.png)
+![image-20210611163736132](http://home.ustc.edu.cn/~ustczt/resources/Project-GAMES101/assets/image-20210611163736132.jpg)
 
