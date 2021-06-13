@@ -25,4 +25,5 @@
 - [16. 光线追踪（蒙特卡洛积分与路径追踪）](16_ray_tracing_4.md)
 - [17. 材质与外观](17_material_and_appearances.md)
 - [18. 高级光线传播与复杂外观建模](18_advanced_topics_in_rendering.md)
+- [19. 相机与透镜](19_cameras_lens_and_light_fields.md)
 
