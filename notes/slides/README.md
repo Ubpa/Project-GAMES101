@@ -27,4 +27,6 @@
 - [18. 高级光线传播与复杂外观建模](18_advanced_topics_in_rendering.md)
 - [19. 相机与透镜](19_cameras_lens_and_light_fields.md)
 - [20. 光场、颜色与感知](20_colors_and_perception.md)
+- [21. 动画与模拟（基本概念、质点弹簧系统、运动学）](21_animation.md)
+- [22. 动画与模拟（求解常微分方程，刚体与流体）](22_animation_cont.md)
 

@@ -20,4 +20,5 @@
 - [作业 5：光线与三角形相交](assignment_5.md)
 - [作业 6：加速结构](assignment_6.md)
 - [作业 7：路径追踪](assignment_7.md)
+- [作业 8：质点弹簧系统](assignment_8.md)
 
